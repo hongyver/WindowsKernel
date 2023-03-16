@@ -1,0 +1,4 @@
+LIBRARY ExportDriver.sys
+EXPORTS
+ DllInitialize PRIVATE
+ DllUnload PRIVATE
