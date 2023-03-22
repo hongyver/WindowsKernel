@@ -6,7 +6,7 @@ Create Export Device Driver like DLL.
 
 
 # HideProcess
-it was originated by @landhb/HideProcess.
+it was originated by <https://github.com/landhb/HideProcess>
 Files : Rootkit.sys, dkom.exe.
 
 ## How to
